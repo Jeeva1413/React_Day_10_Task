@@ -16,4 +16,4 @@
 
 ### Deployed the Work in Netilfy 
 
-## https://react-crud-simple-use-state.netlify.app/
+## 
